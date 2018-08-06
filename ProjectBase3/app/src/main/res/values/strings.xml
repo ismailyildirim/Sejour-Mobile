@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProjectBase</string>
+    <string name="proje">ProjectBase</string>
+    <string name="kayit">Sign In</string>
+    <string name="giris">LOGIN</string>
+    <string name="kullaniciadi">Username</string>
+    <string name="sifre">Password</string>
+    <string name="hatirla">Remember</string>
+    <string name="versiyon">Application Version 1.0</string>
+    <string name="baslık">Tour Sale</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
